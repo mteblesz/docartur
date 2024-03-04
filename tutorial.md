@@ -1,6 +1,6 @@
-# Flutter Board Game - Resistance: Avalon
+# Fluttartur Tutorial
 
-![alt text](http://url/to/img.png)
+![icon](https://github.com/mteblesz/docartur/blob/main/img/icon.png)
 
 ## Introduction
 
@@ -30,8 +30,7 @@ The game is won by the good side if three out of five quests are successful, whi
    - Leadership shifts to the next player.
    - The game continues until three successful or three failed quests.
 
-## User Instructions
-
+## Detailed instructions
 ### Logging In
 
 Upon installation and launch, users are greeted with the login screen. They can change the language between Polish and English using the flag buttons. Users can log in using a previously registered email and password, log in with a Google account, or proceed to the registration screen. The email and password fields undergo validation.
