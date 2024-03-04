@@ -1,6 +1,8 @@
 # Fluttartur Tutorial
 
-![icon](https://github.com/mteblesz/docartur/blob/main/img/icon.png)
+<p align="middle">
+<img src="/img/icon.png" alt="icon" width="200"/>
+</p>
 
 ## Introduction
 
@@ -31,10 +33,15 @@ The game is won by the good side if three out of five quests are successful, whi
    - The game continues until three successful or three failed quests.
 
 ## Detailed instructions
+
+
 ### Logging In
 
 Upon installation and launch, users are greeted with the login screen. They can change the language between Polish and English using the flag buttons. Users can log in using a previously registered email and password, log in with a Google account, or proceed to the registration screen. The email and password fields undergo validation.
-
+<p float="left">
+  <img src="https://github.com/mteblesz/docartur/blob/main/img/icon.png" width="200" />
+  <img src="https://github.com/mteblesz/docartur/blob/main/img/icon.png" width="200" /> 
+</p>
 ### Registration
 
 If users want to create a new account, they can proceed to the registration screen. After entering their email and password, users can click the registration button. They are then directed to the Lobby screen, and they can use the created account for regular login.
