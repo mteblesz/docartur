@@ -66,9 +66,9 @@ In the Lobby screen, users can change the language, enter a room ID to join, cre
 
 Upon entering a room, users must set their nickname, visible to other players. The host has additional options to copy the room ID, kick players, modify character lists, and start the game.
 <p align="middle">
-  <img src="img/room_nick.jpg" width="150" />
-  <img src="img/room_copy.jpg" width="150" />
-  <img src="img/room5.png" width="150" />
+  <img src="img/room_nick.jpg" width="200" />
+  <img src="img/room_copy.jpg" width="200" />
+  <img src="img/room5.png" width="200" />
 </p>
 
 ### Characters
@@ -83,40 +83,40 @@ In the Characters screen, the room host can define additional characters that wi
 
 After starting the game, players are redirected to the game screen. The game screen includes a quest panel, a player list, a squad list, and buttons for various actions during the game.
 <p align="middle">
-  <img src="img/squad_choice00.png" width="250" />
+  <img src="img/squad_choice00.png" width="200" />
 </p>
 
 ### Start of Game
 
 Players are informed about their assigned teams and, if applicable, additional characters assigned to them. Evil players receive information about other evil players, hidden behind a button for secrecy.
 <p align="middle">
-  <img src="img/start0.png" width="152.5" />
-  <img src="img/start1.png" width="150" />
-  <img src="img/start2.png" width="150" />
+  <img src="img/start0.png" width="200" />
+  <img src="img/start1.png" width="200" />
+  <img src="img/start2.png" width="200" />
 </p>
 
 ### Squad Selection
 
 The leader selects a squad for the quest. The squad members are chosen from the player list. The selected squad goes through open voting by all players.
 <p align="middle">
-  <img src="img/choice1.png" width="150" />
-  <img src="img/choice2.png" width="150" />
-  <img src="img/choice3.png" width="150" />
+  <img src="img/choice1.png" width="200" />
+  <img src="img/choice2.png" width="200" />
+  <img src="img/choice3.png" width="200" />
 </p>
 
 ### Public Vote on squad
 
 The selected squad undergoes public voting. If the majority approves, the squad is accepted, and players move to the secret voting screen.
 <p align="middle">
-  <img src="img/vote1.png" width="175" />
-  <img src="img/embark1.png" width="175" />
+  <img src="img/vote1.png" width="200" />
+  <img src="img/embark1.png" width="200" />
 </p>
 
 ### Secret Vote on quest
 
 Squad members vote secretly on the success or failure of the quest. Good players can only vote for success, while evil players have the option to vote for success or failure.
 <p align="middle">
-  <img src="img/vote2.png" width="210" />
+  <img src="img/vote2.png" width="200" />
 </p>
 
 ### Quest Result
@@ -136,7 +136,7 @@ The end-of-game screen informs players about the victory of either the good or e
 
 After the game, players can click the exit button to return to the Lobby screen.
 <p align="middle">
-  <img src="img/result12.png" width="150" />
-  <img src="img/result10.png" width="150" />
-  <img src="img/result11.png" width="150" />
+  <img src="img/result12.png" width="200" />
+  <img src="img/result10.png" width="200" />
+  <img src="img/result11.png" width="200" />
 </p>
