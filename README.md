@@ -86,7 +86,7 @@ After starting the game, players are redirected to the game screen. The game scr
   <img src="img/squad_choice00.png" width="250" />
 </p>
 
-#### Start of Game
+### Start of Game
 
 Players are informed about their assigned teams and, if applicable, additional characters assigned to them. Evil players receive information about other evil players, hidden behind a button for secrecy.
 <p align="middle">
@@ -95,7 +95,7 @@ Players are informed about their assigned teams and, if applicable, additional c
   <img src="img/start2.png" width="150" />
 </p>
 
-#### Squad Selection
+### Squad Selection
 
 The leader selects a squad for the quest. The squad members are chosen from the player list. The selected squad goes through open voting by all players.
 <p align="middle">
@@ -104,7 +104,7 @@ The leader selects a squad for the quest. The squad members are chosen from the 
   <img src="img/choice3.png" width="150" />
 </p>
 
-#### Public Vote on squad
+### Public Vote on squad
 
 The selected squad undergoes public voting. If the majority approves, the squad is accepted, and players move to the secret voting screen.
 <p align="middle">
@@ -112,14 +112,14 @@ The selected squad undergoes public voting. If the majority approves, the squad 
   <img src="img/embark1.png" width="175" />
 </p>
 
-#### Secret Vote on quest
+### Secret Vote on quest
 
 Squad members vote secretly on the success or failure of the quest. Good players can only vote for success, while evil players have the option to vote for success or failure.
 <p align="middle">
   <img src="img/vote2.png" width="210" />
 </p>
 
-#### Quest Result
+### Quest Result
 
 After all squad members vote, the players see the result of the quest. The game returns to the squad selection phase with a new leader if three quests were successful or three quests failed.
 <p align="middle">
@@ -130,7 +130,7 @@ After all squad members vote, the players see the result of the quest. The game 
 
 Upon completion of three successful or three failed quests, the game concludes. A final screen displays the outcome, and players learn the identities of evil players. If Merlin and the Assassin were in the game, the Assassin can choose Merlin after a good side victory, potentially changing the game result.
 
-#### Game Result
+### Game Result
 
 The end-of-game screen informs players about the victory of either the good or evil side. Evil players discover the identity of Merlin, and the final result is displayed.
 
