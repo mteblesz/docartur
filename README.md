@@ -1,7 +1,7 @@
 # Fluttartur Tutorial
 
 <p align="middle">
-<img src="/img/icon.png" alt="icon" height="100"/>
+<img src="/img/icon_square.png" alt="icon" height="200"/>
 </p>
 
 ## Introduction
